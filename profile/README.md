@@ -4,7 +4,7 @@
 
 ### 「 making her a little more real every day 」
 
-<img src="./assets/amadeus-chan.png" width="420" />
+<img src="./assets/amadeus-chan-kirya-version.png" width="420" />
 
 <br>
 
@@ -53,7 +53,10 @@
 
 ### ✦ LAB MEMBERS
 
-**3 developers**  
+**1 developer**  
+**1 qa-team lead**  
+**1 personality architect**  
+**1 Secretary director**  
 **1 anime girl**  
 **0 responsible adults**
 
